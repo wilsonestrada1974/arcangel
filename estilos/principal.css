@@ -1,0 +1,49 @@
+.menu{
+    width: 50%;
+
+    background-color: #b3e5fc;
+    border: 2px solid black;
+    border-color: black;
+    padding: 1em;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 10px #78909c;
+    
+}
+.seleccion{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color:white;
+    border: 2px solid black;
+    border-color: black;
+    padding: 1em;
+    border-radius: 15px;
+    box-shadow: 10px 10px #78909c;
+    
+}
+.administrativo{
+    background-color: white;
+    padding: 1em;
+    margin: 3px;
+    text-align: center;
+}
+.talento{
+    background-color:white;
+    padding: 1em;
+    margin: 3px;
+    text-align: center;
+}
+.mantenimiento{
+    background-color:white;
+    padding: 1em;
+    
+    margin: 3px;
+    text-align: center;
+}
+.salir{
+    background-color:white;
+    padding: 1em;
+    margin: 3px;
+    text-align: center;
+}

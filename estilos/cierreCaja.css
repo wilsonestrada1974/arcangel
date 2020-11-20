@@ -1,0 +1,59 @@
+.cuerpo{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color:white;
+    border: 2px solid black;
+    border-color: black;
+    padding: 1em;
+    border-radius: 15px;
+    box-shadow: 10px 10px #78909c;
+}
+
+.datos{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.etiqueta{
+   border: 1px solid black;
+   border-color: black;
+}
+
+.ingreso {
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.ingreso > div{
+    text-align: left;
+    
+}
+
+.egresos {
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.egresos > div{
+    text-align: left;
+    
+}
+
+.resultados{
+    background-color: #c2cfd6;
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.resultados >div{
+    text-align: left;
+}
+
+
+ 
